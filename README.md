@@ -7,9 +7,18 @@
 
 ---
 
-<div>
-  <img src="./Resources/Images/telaincio.gif"/>
+<div align="center">
+  <img src="./Resources/Images/telaincio-unscreen.gif" width="1280" />
 </div>
 
-
+<div>
   
+## Conteúdo
+
+- Telas com responsividade
+- Seleção simples e intuitiva de vagas para carga
+- Conexão com o banco de dados pgadmin
+- 8 Telas para a inserção de dados
+
+## Colaboradores
+</div>
