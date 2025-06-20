@@ -30,7 +30,7 @@
 - THAINÁ CORREIA LINS DE SANTANA (Desenvolvimento Back End) 
 - VINICIUS SILVA DA CONCEIÇÃO (Desenvolvimento Back End)
   
-<a href="https://github.com/Charge-Pay/Charge-Pay/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Charge-Pay/Charge-Pay"/>
+<a href="https://github.com/Charge-Pay/ChargPay/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Charge-Pay/ChargPay"/>
 </a>
 </div>
