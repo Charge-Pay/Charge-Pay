@@ -21,4 +21,7 @@
 - 8 Telas para a inserção de dados
 
 ## Colaboradores
+<a href="https://github.com/Charge-Pay/Charge-Pay/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Charge-Pay/Charge-Pay"/>
+</a>
 </div>
